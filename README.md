@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=titiksha01L&show_icons=true&theme=highcontrast)
+
 
 <!--
 **titiksha01/titiksha01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
